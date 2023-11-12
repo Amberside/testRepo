@@ -3,4 +3,5 @@ function displayMessage(){
 }
 
 function betterMessage() {
-  document.getElementById("message-box-2".innerHTML += "What's up nerds, it's coding time &#128526 <br/>";
+  document.getElementById("message-box-2").innerHTML += "What's up nerds, it's coding time &#128526 <br/>";
+}
